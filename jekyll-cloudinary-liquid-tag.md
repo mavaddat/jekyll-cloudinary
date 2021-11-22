@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Home
+title: # Jekyll Cloudinary Liquid tag
 has_children: true
-nav_order: 5
+parent: Home
+grand_parent: Home
+nav_order: 2
 ---
-# Jekyll Cloudinary Liquid tag
+# # Jekyll Cloudinary Liquid tag
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-cloudinary.svg)](https://badge.fury.io/rb/jekyll-cloudinary)
 [![Gem Downloads](https://img.shields.io/gem/dt/jekyll-cloudinary.svg?style=flat)](http://rubygems.org/gems/jekyll-cloudinary)
@@ -24,19 +26,4 @@ Here is the general syntax of this Liquid tag:
 {% endraw %}
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of contents
-
-- [Jekyll Cloudinary Liquid tag](#jekyll-cloudinary-liquid-tag)
-  - [Table of contents](#table-of-contents)
-  - [To do](#to-do)
-  - [Do you use the plugin on a live site?](#do-you-use-the-plugin-on-a-live-site)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-## To do
-
-There are already [a few issues for bugs and things that should be added to the plugin](https://github.com/nhoizey/jekyll-cloudinary/issues), feel free to add your ideas!
-
-## Do you use the plugin on a live site?
-
-Add it to [the "Sites" page of the wiki](https://github.com/nhoizey/jekyll-cloudinary/wiki/Sites) and please let me know on Twitter: [@nhoizey](https://twitter.com/nhoizey)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
