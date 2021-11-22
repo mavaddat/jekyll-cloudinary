@@ -8,5 +8,5 @@ nav_order: 8
 ---
 # Do you use the plugin on a live site?
 
-Add it to [the "Sites" page of the wiki](https://github.com/nhoizey/jekyll-cloudinary/wiki/Sites) and please let me know on Twitter: [@nhoizey](https://twitter.com/nhoizey)
+Add it to [the "Sites" page of the wiki](https://github.com/mavaddat/jekyll-responsive-cloudinary/wiki/Sites) and please let me know on Twitter: [@mavaddat](https://twitter.com/mavaddat)
 
