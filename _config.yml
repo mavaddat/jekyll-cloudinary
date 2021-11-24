@@ -12,7 +12,7 @@ color_scheme: dark
 # Aux links for the upper right navigation
 aux_links:
   "Source for Jekyll Cloudinary Plugin":
-    - "//github.com/mavaddat/jekyll-responsive-cloudinary"
+    - "//github.com/mavaddat/jekyll-cloudinary"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
