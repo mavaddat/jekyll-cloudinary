@@ -3,12 +3,20 @@ layout: default
 title: Configuration
 has_children: true
 parent: Home
-grand_parent: Home
-nav_order: 5
+nav_order: 2
 ---
 # Configuration
+{: .no_toc }
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Mandatory settings
+
+These configurations are required to set up the plugin.
+### Activating in Jekyll
 
 Add `cloudinary` to your `_config.yml` and your Cloudinary "Cloud name" (find it in your [Cloudinary dashboard](https://cloudinary.com/console)):
 

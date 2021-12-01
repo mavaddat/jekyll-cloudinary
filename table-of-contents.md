@@ -4,7 +4,7 @@ title: Table of contents
 has_children: true
 parent: Home
 grand_parent: Home
-nav_order: 3
+nav_exclude: true
 ---
 # Table of contents
 
@@ -29,4 +29,5 @@ nav_order: 3
 - [Do you use the plugin on a live site?](#do-you-use-the-plugin-on-a-live-site)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
+
+
